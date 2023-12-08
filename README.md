@@ -1,8 +1,16 @@
-[![alt text](https://raw.githubusercontent.com/Fariha1865/Fariha1865/main/assets/coverBanner/coverGit.gif)](mailto:fariha.edu187@gmail.com)
+<a href="mailto:fariha.edu187@gmail.com">
+    <img src="https://raw.githubusercontent.com/Fariha1865/Fariha1865/main/assets/coverBanner/coverGit.gif" alt="Email Fariha Amin" />
+</a>
+<br />
+<br />
+<br />
 
-# Overview
+## 📊 Current Stats
 
-## Current Status:
+
+<p align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fariha1865&theme=synthwave" alt="GitHub Streak" /></p>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
