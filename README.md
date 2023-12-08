@@ -1,4 +1,4 @@
-![alt text](image.jpg)
+![alt text](https://raw.githubusercontent.com/Fariha1865/Fariha1865/main/assets/coverBanner/coverGit.gif)
 
 # Overview
 
