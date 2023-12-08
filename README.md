@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Fariha1865/Fariha1865/main/assets/coverBanner/coverGit.gif)
+[![alt text](https://raw.githubusercontent.com/Fariha1865/Fariha1865/main/assets/coverBanner/coverGit.gif)](mailto:fariha.edu187@gmail.com)
 
 # Overview
 
