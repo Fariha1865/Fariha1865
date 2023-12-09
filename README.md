@@ -39,6 +39,10 @@
 <br>
 
 
+##  💻 Technologies I know
+
+<br>
+<br>
 
 <div align="center" >
 
