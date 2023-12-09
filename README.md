@@ -19,7 +19,7 @@
 - 👯 **I’m looking to collaborate on**: Open-source projects, particularly those involving innovative web solutions.
 - 🤔 **I’m looking for help with**: Advanced JavaScript concepts and best practices in full-stack development.
 - 💬 **Ask me about**: My journey in web development, the projects I've worked on, and the technologies I've used.
-- 📫 **How to reach me**: [📧 Email me at fariha.edu187@gmail.com](mailto:fariha.edu187@gmail.com)
+- 📫 **How to reach me**: [📧 Email me at:  fariha.edu187@gmail.com](mailto:fariha.edu187@gmail.com)
 
 - 😄 **Pronouns**: She/Her
 - ⚡ **Fun fact**: I enjoy creative coding and love to experiment with new web technologies in my free time.
@@ -32,9 +32,15 @@
 
 <br>
 <br>
-<div align="center">
-<img src="https://api.githubtrends.io/user/svg/Fariha1865/langs?time_range=six_months&compact=True&theme=synthwaves" alt="GitHub Streak" width="50%"/>
-</div>
+
+<table align="center">
+  <tr>
+    <td><img src="https://api.githubtrends.io/user/svg/Fariha1865/langs?time_range=six_months&compact=True&theme=synthwaves" alt="GitHub Streak" height="200px"/></td>
+    <td><a href="https://app.daily.dev/fariha1865"><img src="https://api.daily.dev/devcards/a1a11ba53a4f4645b7a53067a5f3ca5d.png?r=2o1" height="200px" alt="Fariha Amin's Dev Card"/></a></td>
+  </tr>
+</table>
+
+
 
 <br>
 <br>
@@ -79,6 +85,7 @@
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fariha1865&theme=aura"/>
 </div>
+
 <br>
 
 <div align="center">
@@ -97,7 +104,7 @@
 </div>
 
 
-<!-- <a href="https://app.daily.dev/fariha1865"><img src="https://api.daily.dev/devcards/a1a11ba53a4f4645b7a53067a5f3ca5d.png?r=2o1" width="400" alt="Fariha Amin's Dev Card"/></a> -->
+
 
 <br/><br/>
 
