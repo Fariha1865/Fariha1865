@@ -73,6 +73,8 @@
 <br>
 <br>
 
+##  📉 My Stats
+<br>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fariha1865&theme=aura"/>
 </div>
@@ -87,7 +89,8 @@
 </table>
 </div>
 
-
+##  🎓 My Commits
+<br>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fariha1865&theme=aura&utcOffset=8" width="50%"/>
 </div>
