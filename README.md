@@ -19,7 +19,8 @@
 - 👯 **I’m looking to collaborate on**: Open-source projects, particularly those involving innovative web solutions.
 - 🤔 **I’m looking for help with**: Advanced JavaScript concepts and best practices in full-stack development.
 - 💬 **Ask me about**: My journey in web development, the projects I've worked on, and the technologies I've used.
-- 📫 **How to reach me**: [fariha.edu187@gmail.com]
+- 📫 **How to reach me**: [📧 Email me at fariha.edu187@gmail.com](mailto:fariha.edu187@gmail.com)
+
 - 😄 **Pronouns**: She/Her
 - ⚡ **Fun fact**: I enjoy creative coding and love to experiment with new web technologies in my free time.
 
