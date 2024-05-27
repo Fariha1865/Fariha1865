@@ -1,5 +1,5 @@
 <a href="mailto:fariha.edu187@gmail.com">
-    <img src="https://raw.githubusercontent.com/Fariha1865/Fariha1865/main/assets/coverBanner/coverGit.gif" alt="Email Fariha Amin" />
+<!--     <img src="https://raw.githubusercontent.com/Fariha1865/Fariha1865/main/assets/coverBanner/coverGit.gif" alt="Email Fariha Amin" /> -->
 </a>
 <br />
 <br />
